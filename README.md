@@ -1,11 +1,11 @@
 ## Available Scripts
 
-In the project directory, you can run:
+project directory에서 앱을 실행하려면:
 
 ### `npm start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+개발모드에서 앱을 실행할 수 있습니다.   
+[http://localhost:3000](http://localhost:3000)로 인터넷에서 볼 수 있습니다.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+이 페이지는 수정하는 사항이 있을 때마다 새로고침 됩니다.   
+또한 console에서 모든 lint에러를 볼 수 있습니다.
